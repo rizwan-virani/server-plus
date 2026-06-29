@@ -1,0 +1,19 @@
+{
+  "name": "CompTIA Server+ Study Platform",
+  "short_name": "Server+",
+  "description": "Free, open-source certification exam prep \u2014 part of The Certification Launchpad.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0b1016",
+  "theme_color": "#5a6acf",
+  "icons": [
+    {
+      "src": "assets/img/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
